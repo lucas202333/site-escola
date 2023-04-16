@@ -1,1 +1,20 @@
-!
+header {
+    background-color: #383d38;
+    color: white;
+    display: flex;
+    padding: 24px 0;
+    font-size: 24px;
+    justify-content: space-around;
+     }
+     .cabecalho-lista-imagem{
+        width: 10%;
+        height: 10%;
+     }
+    .cabecalho-lista-item{
+        padding: 24 px 0;
+        font-size: 24px;
+        display:inline-block;
+    }
+
+
+
